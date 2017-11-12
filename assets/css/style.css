@@ -69,6 +69,7 @@ body {
     border: solid;
     border-width: 1px;
     border-color: #dddddd;
+    padding-bottom: 25px;
 
 }
 
@@ -132,6 +133,15 @@ p {
 
 .icon {
     max-width: 70px;
+}
+
+.form-height {
+    min-height: 100px;
+}
+
+.btn {
+    color: white;
+    background-color: #4aaaa5;
 }
 
 footer {
