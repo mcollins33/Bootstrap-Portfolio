@@ -31,13 +31,11 @@ body {
     color: white;
     margin: 0;
     padding: 25px;
-    margin-left: 190px;
     float: left;
 }
 
  
 .navbar-right {
-    margin-right: 350px;
     padding-top: 35px;
 }
 
@@ -109,7 +107,7 @@ p {
     text-align: center;
     background-color: #4aaaa5;
     position: absolute;
-    top: 100px;
+    top: 40%;
     width: 100%;
     padding: 20px;
 }
