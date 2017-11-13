@@ -118,6 +118,8 @@ p {
     border: solid;
     border-width: 1px;
     border-color: #dddddd;
+    margin-right: 25px;
+    margin-bottom: 25px;
 }
 
 #con {
