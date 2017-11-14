@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+Hi! Welcome to my website!  My name is Miki Collins and I am an aspiring full stack developer.  I am currently enrolled in Georgia Tech's Fall 2017 Coding Bootcamp with expected completion in February 2018.  
 
-You can use the [editor on GitHub](https://github.com/mcollins33/Bootstrap-Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This site is meant for potential employers to learn a little about me and see my progress as I make my way through this course.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+As of 11/13/17 I have incorporated Javascript into my code to make my website responsive. 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mcollins33/Bootstrap-Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+11/10/17 I have created this website using html and css.  You can learn a little more about me in the "About Me" section on the Index page.  I have working links to my GitHub, LinkedIn, and StackOverflow sites.  I also have working links in the navigation bar to my Portfolio and Contact pages.  The links in the Portfolio section of the Portfolio page are currently inoperable as these are future projects.  The form on the Contact page is also inoperable at this time.   
