@@ -106,10 +106,15 @@
                 color: white;
                 text-align: center;
                 background-color: #4aaaa5;
-                position: absolute;
                 top: 50%;
                 width: 100%;
                 padding: 20px;
+            }
+
+            .apptext {
+                font-family: "Georgia", Times, "Times New Roman", serif;
+                font-size: 16px;
+                color: white;
             }
 
             .connect {
